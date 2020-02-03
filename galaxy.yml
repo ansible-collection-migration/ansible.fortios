@@ -1,0 +1,16 @@
+namespace: ansible
+name: fortios
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible.netcommon: '>=1.0'
+  ansible.misc: '>=1.0'
+repository: git@github.com:ansible-collection-migration/ansible.fortios.git
+documentation: https://github.com/ansible-collection-migration/ansible.fortios/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/ansible.fortios
+issues: https://github.com/ansible-collection-migration/ansible.fortios/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
